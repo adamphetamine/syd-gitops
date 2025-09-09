@@ -40,7 +40,8 @@ team_settings:
       enable_failing_policies_webhook: true
       destination_url: https://smh.com.au
       host_batch_size: 0
-      policiy_ids: "53"
+      policiy_ids:
+        - 53
   secrets:
     - secret: "$FLEET_ENGINEERING_ENROLL_SECRET"
   features:
