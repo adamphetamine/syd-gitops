@@ -41,7 +41,7 @@ team_settings:
       destination_url: https://smh.com.au
       host_batch_size: 0
       policiy_ids:
-        - 53
+        - 54
   secrets:
     - secret: "$FLEET_ENGINEERING_ENROLL_SECRET"
   features:
